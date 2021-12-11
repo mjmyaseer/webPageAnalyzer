@@ -38,7 +38,8 @@ ANALYZER_WEBSOCKET_PORT=8080
 Assumptions:
 - Chrome Browser
 - Linux or mac machine
+- I have attached the chromedriver.zip file so that incase the file got deleted this can be extracted and used
 
 Possible Improvements:
-- The design can be a bit more attractive.
+- The design can be a bit more attractive
 - Validations can be added
